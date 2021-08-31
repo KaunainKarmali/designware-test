@@ -11,7 +11,7 @@ btn class selector
 - Replace `padding: 5px 15px 10px 10px` with `padding: 10px 15px 10px 10px` to match Target Outcome's spacing requirements
 - Add `outline: none` as there is no outline that appears in the Target Outcome when it is in focus
 - Add `transition: 0.2s all` to provide a transition consistent with all child elements
-- Remove `transition: 0.2s all` from the hover state as it was suggested to be included in the `btn` class (see above), making it redundant here
+- Remove `transition: 0.2s all` from the hover state as it is suggested to be included in the `btn` class (see above), making it redundant here
 
 svg element selector
 
