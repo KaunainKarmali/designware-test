@@ -2,7 +2,7 @@
 
 ## Code fixes and suggestions
 
-### CSS (SASS) Fixes:
+### CSS (SASS) fixes:
 
 .btn class
 
@@ -17,7 +17,7 @@ svg element
 
 - Add `margin-right: 10px` to match Target Outcome's spacing requirements
 
-### CSS (SASS) Suggestions:
+### CSS (SASS) suggestions:
 
 .btn class
 
